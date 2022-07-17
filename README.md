@@ -21,9 +21,9 @@ Data Visulatization with Plotly Express.
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/78019202/179429950-534b99d5-c52d-4bf2-8ff6-7735eb8620bf.png)
 
+## Plotly Bar Volume
+![Screenshot (53)](https://user-images.githubusercontent.com/78019202/179430066-184579eb-0bab-4a15-bb3f-53f6e0880509.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
   
