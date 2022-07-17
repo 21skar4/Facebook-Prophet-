@@ -58,9 +58,9 @@ forecast=m.predict(future)*
 ## Forecated vs Original price along with 30 days future price
 ![forecasted vs original along with future 30 days price](https://user-images.githubusercontent.com/78019202/179429366-c7df9d83-a02b-420c-9604-e1e265d46554.png)
 
-## Screenshots
+## Components of Forecast
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![components of forecast](https://user-images.githubusercontent.com/78019202/179429439-cce85970-eb1a-4412-b6c9-324a8e55f50b.png)
 
 ## Screenshots
 
