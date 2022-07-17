@@ -55,9 +55,9 @@ forecast=m.predict(future)*
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-## Screenshots
+## Forecated vs Original price along with 30 days future price
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](forecasted vs original along with future 30 days price.png)
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
