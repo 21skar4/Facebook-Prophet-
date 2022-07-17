@@ -3,9 +3,9 @@ This project is to build an stock price predictor for any stock just by typing i
 
 ## Loading the data  
 Loaded the stock price data from yfinance by Yahoo Finance.
-## Screenshots
+## Stock data for 1 year
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (43)](https://user-images.githubusercontent.com/78019202/179429562-44cc5e57-e97e-4295-b40e-129da0677895.png)
 
 
 ## Data Visulatization  
