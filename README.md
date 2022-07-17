@@ -13,10 +13,10 @@ Data Visulatization with Plotly Express.
 ## Screenshots
 
 ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/21skar4/Facebook-Prophet-/blob/main/components%20of%20forecast.png))
-## Screenshots
+## Plotly Line
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-## Screenshots
+![Screenshot (44)](https://user-images.githubusercontent.com/78019202/179429737-df2a4df1-fae0-4915-b0c2-6672d0ff5c6a.png)
+
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Screenshots
