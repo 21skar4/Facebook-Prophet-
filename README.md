@@ -13,20 +13,18 @@ Data Visulatization with Plotly Express.
 ## Screenshots
 
 ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/21skar4/Facebook-Prophet-/blob/main/components%20of%20forecast.png))
-## Plotly Line
+## Plotly Line Close Price
 
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/78019202/179429824-f5188c04-89da-4113-be48-849454babbfa.png)
-## Volume Area Curve
+## Plotly Area Volume
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/78019202/179429950-534b99d5-c52d-4bf2-8ff6-7735eb8620bf.png)
 
 ## Plotly Bar Volume
 ![Screenshot (53)](https://user-images.githubusercontent.com/78019202/179430066-184579eb-0bab-4a15-bb3f-53f6e0880509.png)
-
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-  
+## Plotly Box Close Price
+![Screenshot (54)](https://user-images.githubusercontent.com/78019202/179430142-1d08b497-c763-4d1a-84cd-38d0529ec2be.png)
 ## Facebook Prophet
 **Accurate and Fast:** It is accurate and generate results very fast.  
 **Reliable:** Facebook Company itself uses Prophet for Internal forecasting.  
