@@ -12,7 +12,7 @@ Loaded the stock price data from yfinance by Yahoo Finance.
 Data Visulatization with Plotly Express.  
 ## Plotly Area Close Price
 ![Screenshot (58)](https://user-images.githubusercontent.com/78019202/179430647-5429849c-5d77-45f8-a1c0-bd475a16bbdc.png)
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/21skar4/Facebook-Prophet-/blob/main/components%20of%20forecast.png))
+
 ## Plotly Line Close Price
 
 
