@@ -61,9 +61,8 @@ forecast=m.predict(future)*
 
 ![components of forecast](https://user-images.githubusercontent.com/78019202/179429439-cce85970-eb1a-4412-b6c9-324a8e55f50b.png)
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Future 30 Days price
+![Screenshot (60)](https://user-images.githubusercontent.com/78019202/179430427-057989d5-818f-474f-b55b-35b62168e367.png)
 ## Downloading Forecasted Data
 
 Download the data forecasted data with the following code-
