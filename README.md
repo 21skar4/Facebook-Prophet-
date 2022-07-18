@@ -48,12 +48,7 @@ m.fit(prophet_df)*
 *future = m.make_future_dataframe(periods=30)  
 forecast=m.predict(future)*
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## Forecated vs Original price along with 30 days future price
 ![forecasted vs original along with future 30 days price](https://user-images.githubusercontent.com/78019202/179429366-c7df9d83-a02b-420c-9604-e1e265d46554.png)
 
