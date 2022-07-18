@@ -35,9 +35,8 @@ Data Visulatization with Plotly Express.
 ## Data Preparation
 
 Convert "Date" and "Close" data to "ds" and "y".
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (59)](https://user-images.githubusercontent.com/78019202/179430520-14f9859f-995e-4a12-a9a0-71160da8a669.png)
 
 ## Facebook Prophet Model
 Build the model with-  
